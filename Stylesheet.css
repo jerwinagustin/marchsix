@@ -1,0 +1,12 @@
+.lol{
+	height: 400px;
+	width: 10000px;
+}
+.she{
+	margin-bottom: 10px;
+	height: 400px;
+	background-image: url(images/sea.jpg);
+	text-align: center;
+	font-family: arial;
+	color: white;
+}
